@@ -11,7 +11,7 @@ load_dotenv()
 API_ID = 18688563
 
 #❖________②_______❖_______#
-API_HASH = 48315c25585c23eee6b1f346aad17a68
+API_HASH = '48315c25585c23eee6b1f346aad17a68'
 
 #❖________③_______❖_______#
 BOT_TOKEN = 5935941442:AAEIZGT8QgfVBY35eX4znwSag0uN9sniskk
